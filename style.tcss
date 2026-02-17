@@ -1,0 +1,10 @@
+Screen {
+    align: center middle;
+}
+
+OptionList {
+    
+
+    height: 70%;
+    width: 70%;
+}
